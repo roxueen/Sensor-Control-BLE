@@ -18,5 +18,5 @@ Acest proiect utilizează un **ESP32** pentru a colecta date de la senzori (ultr
 4. Conectează-te prin BLE la dispozitiv pentru a primi date.
 
 ## Autor
-**[Numele tău]**
+**Bălaşa Elena-Roxana**
 # Sensor-Control-BLE
