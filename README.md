@@ -11,7 +11,7 @@ Acest proiect utilizează un **ESP32** pentru a colecta date de la senzori (ultr
 ## Instalare:
 1. Clonează repository-ul:
    ```bash
-   git clone https://github.com/USERNAME/Sensor-Control-BLE.git
+   git clone https://github.com/roxueen/Sensor-Control-BLE.git
    ```
 2. Deschide codul în **Arduino IDE**.
 3. Selectează placa **ESP32** și încarcă programul.
